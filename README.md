@@ -1,4 +1,3 @@
-# oracle-dbms-course-beginner-to-expert
 
 # Oracle DBMS Course – Beginner to Expert
 
